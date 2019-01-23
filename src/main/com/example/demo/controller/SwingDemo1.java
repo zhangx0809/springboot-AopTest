@@ -5,6 +5,7 @@ import javax.swing.*;
 public class SwingDemo1 {
     public static void main(String[] args) {
         // 创建 JFrame 实例
+
         JFrame frame = new JFrame("Login Example");
         // Setting the width and height of frame
         frame.setSize(350, 200);
